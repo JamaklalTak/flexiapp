@@ -1,0 +1,34 @@
+{
+    "Item": [
+      {
+        "name": "person_name",
+        "label": "Person's Name",
+        "type": "TextField"
+      },
+      {
+        "name": "person_lastname",
+        "label": "Person's Lastname",
+        "type": "TextField"
+      },
+      {
+        "name": "states",
+        "label": "Person's state",
+        "type": "DropDown",
+        "values": [
+          "Maharashtra",
+          "Kerala",
+          "Tamil Nadu"
+          ]
+      },
+      {
+        "name": "City",
+        "label": "Person's City",
+        "type": "DropDown",
+        "values": [
+          "Pune",
+          "Banglore",
+          "Mumbai"
+          ]
+      }
+    ]
+  }
